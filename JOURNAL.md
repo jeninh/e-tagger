@@ -18,3 +18,9 @@ Tomorrow, I will attend a seminar for the Solder project, so I can actually lear
 I also want to give credit to Juvenescent Bug and Kashyap S for helping me today in the Slack!  
 [will attach images tomorrow]  
 **Total time spent: 2h, 21m**  
+
+---
+# June 24th: PPP: Parts, PCB, Planning   
+(that took me quite a while to make up)  
+## 12:00 PM (noon) - 2:30 PM: Parts 
+When asking around in the slack channel, people told me that some of the links I provided (specifically adafruit) are just REALLY REALLY expensive. So, I decided to do some sesearch on the parts.
