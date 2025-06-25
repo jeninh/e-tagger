@@ -4,6 +4,9 @@ author: "Jenin"
 description: "An e-ink tag badge you can wear on your shirt. Can use NFC to change at any time."
 created_at: "2024-06-23"
 ---
+# TOTAL TIME SPENT AS OF NOW:
+## 2 days
+## 6 hours
 # June 23rd: Started the project!  
 Today I started the project. I sorted out what components I will use for the e-Tagger!  
 Current BOM:  
