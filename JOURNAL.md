@@ -22,5 +22,22 @@ I also want to give credit to Juvenescent Bug and Kashyap S for helping me today
 ---
 # June 24th: PPP: Parts, PCB, Planning   
 (that took me quite a while to make up)  
-## 12:00 PM (noon) - 2:30 PM: Parts 
-When asking around in the slack channel, people told me that some of the links I provided (specifically adafruit) are just REALLY REALLY expensive. So, I decided to do some sesearch on the parts.
+When asking around in the slack channel, people told me that some of the links I provided (specifically adafruit) are just REALLY REALLY expensive. So, I decided to do some sesearch on the parts.  
+
+Afterwards, I did a tutorial to find out how to use kicad, and spent a little bit on Hackpad! I'm not counting that in this time.     
+
+This BOM attached below is what I devised after researching on the 24th, and the morning of the 25th.
+Current BOM (all prices in USD):   
+E-Ink Display: Aliexpress[https://www.aliexpress.com/item/1005009114917752.html] for $8.66   
+Microcotroller: Xiao-RP2040[https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html] for $3.99   
+NFC Reader: Unsure as of now, I'm asking around to see if anyone has any good ones that are compatible with the RP2040     
+Battery: Also unsure as of now, I'm asking around to see if anyone has any good ones that are compatible with the RP2040    
+Charger: Also unsure as of now, I'm asking around to see if anyone has any good ones that are compatible with the RP2040   
+
+Now you may be asking
+"Jenin, why are those 3 parts labeled as "unsure" wehn they were written yesterday?"  
+Well, to be frank, I didn't know how compatible stuff with microcontrollers work, and after a seminar with Meghana about PCB's now I'm looking for parts that are actually compatible!
+
+![Screen Shot 2025-06-25 at 11 14 38 AM](https://github.com/user-attachments/assets/3539e941-3545-4b77-81da-97aea6500d0c)  
+(for context, i'm not doing the seminar for the athena award, rather for hackpad and to learn about microcontrollers, which is why i excluded it from my time here)   
+**Total time spent: 4h, excluding microcontroller seminar**
